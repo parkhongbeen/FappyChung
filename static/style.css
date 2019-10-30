@@ -1,5 +1,6 @@
 body{
   background-image: url(./image/pengsoo.jpg);
+  background-repeat: no-repeat;
   width: 400px;
   height: 400px
 }
